@@ -1,0 +1,11 @@
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\bin\DSS_Project.dll
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\bin\DSS_Project.pdb
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\bin\MySql.Data.Entity.dll
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\bin\MySql.Data.Entity.EF5.dll
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\bin\MySql.Data.Entity.EF6.dll
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\bin\MySql.Fabric.Plugin.dll
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\bin\MySql.Data.Entity.EF5.xml
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\bin\MySql.Data.Entity.EF6.xml
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\obj\Release\DSS_Project.csprojResolveAssemblyReference.cache
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\obj\Release\DSS_Project.dll
+C:\Users\kashif\Documents\Visual Studio 2012\Projects\DSS_Project\DSS_Project\obj\Release\DSS_Project.pdb

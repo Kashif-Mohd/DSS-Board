@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\DSSproject</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/css/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/css/bootstrap.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/css/style-responsive.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/css/style.css">
+      <publishTime>04/13/2017 16:49:02</publishTime>
+    </File>
+    <File Include="assets/css/table-responsive.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/css/to-do.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/css/zabuto_calendar.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/font-awesome/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/font-awesome/css/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/font-awesome/css/font-awesome.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/font-awesome/fonts/FontAwesome.otf">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/fonts/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/img/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/img/aku_logo.png">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/img/backbtn.png">
+      <publishTime>04/15/2017 12:41:28</publishTime>
+    </File>
+    <File Include="assets/img/backbtn2.png">
+      <publishTime>04/15/2017 12:39:13</publishTime>
+    </File>
+    <File Include="assets/img/backbtna.png">
+      <publishTime>04/15/2017 12:47:58</publishTime>
+    </File>
+    <File Include="assets/img/blog-bg.jpg">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/img/checkbox-gray.png">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/img/login-bg.jpg">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/img/radio-gray.png">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/img/zoom.png">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap-inputmask/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap-inputmask/bootstrap-inputmask.min.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap-switch.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/bootstrap.min.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/calendar-conf-events.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/chart-master/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/chart-master/Chart.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/chartjs-conf.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/common-scripts.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/easy-pie-chart.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/fancybox/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/fancybox/jquery.fancybox.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/fancybox/jquery.fancybox.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/form-component.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/fullcalendar/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/fullcalendar/bootstrap-fullcalendar.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/fullcalendar/fullcalendar.min.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter-conf.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/css/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/css/jquery.gritter.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/css/jquery.gritter0.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/images/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/images/gritter-light.png">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/images/gritter-long.png">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/images/gritter.png">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/images/ie-spacer.gif">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/js/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/gritter/js/jquery.gritter.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery-1.8.3.min.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery-easy-pie-chart/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery-ui-1.9.2.custom.min.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.backstretch.min.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.dcjqaccordion.2.7.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.nicescroll.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.scrollTo.min.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.sparkline.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.tagsinput.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/jquery.ui.touch-punch.min.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/morris-conf.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/sparkline-chart.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/tasks.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/js/zabuto_calendar.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/lineicons/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/lineicons/fonts/.DS_Store">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/lineicons/fonts/linecons.eot">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/lineicons/fonts/linecons.svg">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/lineicons/fonts/linecons.ttf">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/lineicons/fonts/linecons.woff">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/lineicons/index.html">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/lineicons/lte-ie7.js">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="assets/lineicons/style.css">
+      <publishTime>04/13/2017 11:53:50</publishTime>
+    </File>
+    <File Include="bin/DSS_Project.dll">
+      <publishTime>04/17/2017 13:23:26</publishTime>
+    </File>
+    <File Include="bin/DSS_Project.pdb">
+      <publishTime>04/17/2017 13:23:26</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.Entity.dll">
+      <publishTime>12/22/2015 19:18:10</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.Entity.EF5.dll">
+      <publishTime>06/17/2016 18:28:04</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.Entity.EF6.dll">
+      <publishTime>06/17/2016 18:28:04</publishTime>
+    </File>
+    <File Include="bin/MySql.Fabric.Plugin.dll">
+      <publishTime>06/17/2016 18:28:04</publishTime>
+    </File>
+    <File Include="Main.Master">
+      <publishTime>04/17/2017 12:02:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/17/2017 13:24:47</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>04/17/2017 11:55:44</publishTime>
+    </File>
+    <File Include="WebForm2.aspx">
+      <publishTime>04/17/2017 10:49:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
